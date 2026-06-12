@@ -17,5 +17,6 @@ public class HandshakePacketAdapter implements HandshakePacket {
 
     @Override
     public void setHostName(String hostname) {
+        this.accessor.setHostName(hostname);
     }
 }

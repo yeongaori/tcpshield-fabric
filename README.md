@@ -19,7 +19,7 @@ expect TCPShield to offer support for any problems you may encounter relating to
 ## Getting started
 
 You can either clone this repository and build the mod yourself, or you can download
-a prebuilt jar from https://github.com/totorewa/tcpshield-fabric/tags
+a prebuilt jar from https://github.com/yeongaori/tcpshield-fabric/tags
 
 ### Compatibility
 
